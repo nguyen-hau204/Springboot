@@ -1,4 +1,3 @@
-
 <!-- https://mvnrepository.com/artifact/org.thymeleaf/thymeleaf -->  
 <dependency>
     <groupId>org.thymeleaf</groupId>
